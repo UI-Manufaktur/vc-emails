@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vc-emails
+vc-emails.so
+vc-emails.dylib
+vc-emails.dll
+vc-emails.a
+vc-emails.lib
+vc-emails-test-*
+*.exe
+*.o
+*.obj
+*.lst
